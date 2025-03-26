@@ -33,7 +33,7 @@ In environments with strict firewall policies that allow only specific ICMP pack
 
 ## Prerequisites 🔧
 - Python 3.x
-- `cryptography` library
+- `cryptography` `socket` `struct` `sys` `collections` `argparse` `getpass`  library
 - Root/Administrator privileges
 - Compatible network environment
 
